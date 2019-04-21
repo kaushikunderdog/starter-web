@@ -1,7 +1,7 @@
-#Starter WEB 
+# Starter WEB 
 This is a web project
 
-##Purpose
+## Purpose
 Just to understand some concepts 
 
 ## Deployment
